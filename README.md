@@ -8,7 +8,7 @@ This page is intended to house the installation instructions for ROS2 and the Vi
 * [Installing on Windows](https://github.com/Razorbotz/Installing-ROS2/tree/master#installing-on-windows)
 
 ## Download and Install the Prebuilt VM
-To begin the project, download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).  After installing VirtualBox, download the [prebuilt VM](https://drive.google.com/file/d/1qeZDFkhvdZmSC6r7r-ZyJyIzS4OSzWKc/view?usp=sharing).  After downloading the VM, open VirtualBox.  To create a new virtual machine, press the New button.
+To begin the project, download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).  After installing VirtualBox, download the [prebuilt VM](https://drive.google.com/file/d/1nqYG9cSQY_RwnNPd3lz6fRxpCcJ26EA6/view?usp=drive_link).  After downloading the VM, open VirtualBox.  To create a new virtual machine, press the New button.
 
 ![New Button](https://github.com/Razorbotz/ROS2-Installation/blob/pictures/pictures/Installation_1.PNG)
 
